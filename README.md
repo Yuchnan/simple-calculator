@@ -28,7 +28,7 @@ Untuk memulai apliaksi ini, ikuti langkah-langkah berikut:
 
    Buka `src/index.html` di web browser untuk melihat tampilan kalkulator.
 
-## Usage
+## Penggunaan
 
 Aplikasi ini memungkinkan pengguna untuk melakukan operasi berikut:
 
