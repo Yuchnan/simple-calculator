@@ -1,4 +1,4 @@
-# Aplikasi Kalkulator
+# Kalkulator Sederhana
 
 Ini adalah aplikasi kalkulator sederhana yang dibuat menggunakan JavaScript dan CSS. Aplikasi ini memungkinkan pengguna untuk melakukan operasi aritmatika dasar.
 
