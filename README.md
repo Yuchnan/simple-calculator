@@ -20,8 +20,7 @@ Untuk memulai apliaksi ini, ikuti langkah-langkah berikut:
 1. **Kloning repositori:**
 
    ```bash
-   git clone <repository-url>
-   cd calculator-app
+   git clone https://github.com/Yuchnan/simple-calculator.git
 
    ```
 
