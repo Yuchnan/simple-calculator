@@ -7,13 +7,13 @@ Ini adalah aplikasi kalkulator sederhana yang dibuat menggunakan JavaScript dan 
 ```
 calculator-app
 ├── src
-│   ├── index.html
 │   ├── styles.css
 │   └── app.js
+├── index.html
 └── README.md
 ```
 
-## Memulai
+## Cara Memakai
 
 Untuk memulai apliaksi ini, ikuti langkah-langkah berikut:
 
@@ -24,9 +24,9 @@ Untuk memulai apliaksi ini, ikuti langkah-langkah berikut:
 
    ```
 
-2. **Open the application:**
+2. **Buka aplikasi:**
 
-   Buka `src/index.html` di web browser untuk melihat tampilan kalkulator.
+   Buka `index.html` di web browser untuk melihat tampilan kalkulator.
 
 ## Penggunaan
 
